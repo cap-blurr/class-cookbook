@@ -1,4 +1,4 @@
-# class-cookbook
+cd# class-cookbook
 Our shared class project. Everyone adds ONE recipe.
 
 ## How to contribute
